@@ -7,3 +7,4 @@ requires-python = ">=3.12"
 dependencies = [
     "fastapi[standard]>=0.116.1",
 ]
+package-mode = false
